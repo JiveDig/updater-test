@@ -5,7 +5,7 @@
  * Description:     Testing the GHU class
  * Version:         1.0.4
  *
- * GitHub URI:      JiveDig/updater-test/
+ * GitHub URI:      JiveDig/updater-test
  *
  * Author:          BizBudding, Mike Hemberger
  * Author URI:      https://bizbudding.com
