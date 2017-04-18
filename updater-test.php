@@ -3,7 +3,7 @@
  * Plugin Name:     Updater test
  * Plugin URI:      https://bizbudding.com
  * Description:     Testing the GHU class
- * Version:         1.0.0
+ * Version:         1.0.1
  *
  * GitHub URI:      https://github.com/JiveDig/updater-test/
  *
