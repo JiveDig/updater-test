@@ -91,7 +91,7 @@ final class Updater_Test {
 
         // Plugin version.
         if ( ! defined( 'UPDATER_TEST_VERSION' ) ) {
-            define( 'UPDATER_TEST_VERSION', '1.0.0' );
+            define( 'UPDATER_TEST_VERSION', '1.0.1' );
         }
 
         // Plugin Folder Path.
