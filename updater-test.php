@@ -3,7 +3,7 @@
  * Plugin Name:     Updater test
  * Plugin URI:      https://github.com/JiveDig/updater-test/
  * Description:     Testing the GHU class
- * Version:         1.0.3
+ * Version:         1.0.4
  *
  * GitHub URI:      JiveDig/updater-test/
  *
