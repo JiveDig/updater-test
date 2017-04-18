@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:     Updater test
- * Plugin URI:      https://bizbudding.com
+ * Plugin URI:      https://github.com/JiveDig/updater-test/
  * Description:     Testing the GHU class
- * Version:         1.0.2
+ * Version:         1.0.3
  *
- * GitHub URI:      https://github.com/JiveDig/updater-test/
+ * GitHub URI:      JiveDig/updater-test/
  *
  * Author:          BizBudding, Mike Hemberger
  * Author URI:      https://bizbudding.com
