@@ -1,2 +1,2 @@
-# updater-test
-Useless plugin just for testing the GHU class
+# Starter Plugin
+Starter plugin for BizBudding, Inc
