@@ -39,10 +39,6 @@ final class Updater_Tester {
 		if ( ! isset( self::$instance ) ) {
 			// Setup the setup
 			self::$instance = new Updater_Tester;
-			// Methods
-			self::$instance->includes();
-			self::$instance->write();
-			self::$instance->hooks();
 		}
 		return self::$instance;
 	}
@@ -58,7 +54,7 @@ final class Updater_Tester {
 	 */
 	function includes() {
 		require_once plugin_dir_path( __FILE__ ) . 'includes/plugin-update-checker/plugin-update-checker.php'; // v 4.4
-		$updater = Puc_v4_Factory::buildUpdateChecker( 'https://github.com/maithemewp/mai-engine-installer/', __FILE__, 'mai-pro-engine' );
+		$updater = Puc_v4_Factory::buildUpdateChecker( 'https://github.com/JiveDig/updater-test', __FILE__, 'updater-test' );
 	}
 
 }
