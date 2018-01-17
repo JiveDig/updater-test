@@ -39,6 +39,7 @@ final class Updater_Tester {
 		if ( ! isset( self::$instance ) ) {
 			// Setup the setup
 			self::$instance = new Updater_Tester;
+			self::$instance->includes();
 		}
 		return self::$instance;
 	}
